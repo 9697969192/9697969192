@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="summary" src="https://github.com/user-attachments/assets/1bfa6a4f-b049-4f7d-899c-bd72859a778b" /># Hi I'm Payal Pawar👋
+# Hi I'm Payal Pawar👋
 
 
 <p align="center">
@@ -76,7 +76,7 @@ HR-Analytics-Dashboard-Power-BI-SQL-DAX
 The Executive Summary Dashboard provides a comprehensive overview of workforce health by monitoring employee headcount, hiring, attrition, attendance, performance, compensation, and diversity. It enables HR leaders to identify trends, improve employee retention, optimize hiring strategies, and support informed business decisions.
 
 
-[Uploading summary.png…]()
+<img width="1536" height="1024" alt="summary" src="https://github.com/user-attachments/assets/1bfa6a4f-b049-4f7d-899c-bd72859a778b" />
 
 
 
