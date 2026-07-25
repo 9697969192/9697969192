@@ -71,7 +71,9 @@ Developed an end-to-end BI solution using SQL Server, Power BI, and DAX. Designe
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/62bb9946-8ea2-4967-881e-2a30f14ddeb4" />
 
 
-README.md
+
+
+
 
 
 HR-Analytics-Dashboard-Power-BI-SQL-DAX
