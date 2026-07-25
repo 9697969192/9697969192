@@ -1,8 +1,5 @@
 # Hi I'm Payal Pawar👋
 
-<!--
-**9697969192/9697969192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
