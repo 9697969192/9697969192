@@ -69,3 +69,14 @@ Retail Sales Analytics Dashboard | Power BI | SQL | DAX
 Developed an end-to-end BI solution using SQL Server, Power BI, and DAX. Designed a star schema data model with fact and dimension tables for optimized reporting. Built interactive dashboards featuring KPIs, drill-through and dynamic filters. Developed 20+ DAX measures for sales analysis, profitability, ranking, and time intelligence. 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/62bb9946-8ea2-4967-881e-2a30f14ddeb4" />
+
+README.md
+
+
+HR-Analytics-Dashboard-Power-BI-SQL-DAX
+
+
+The Executive Summary Dashboard provides a comprehensive overview of workforce health by monitoring employee headcount, hiring, attrition, attendance, performance, compensation, and diversity. It enables HR leaders to identify trends, improve employee retention, optimize hiring strategies, and support informed business decisions.
+
+
+
